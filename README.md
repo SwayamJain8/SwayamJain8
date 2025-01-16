@@ -44,9 +44,12 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2 align="center">Leetcode Info<h2> 
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SwayamJain8/SwayamJain8/output/github-contribution-grid-snake.svg" />
+  <p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/swayamjain8?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
   
   <br/><br/><br/>
 </div>
