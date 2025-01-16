@@ -48,6 +48,8 @@
   <br/>
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/swayamjain8?theme=dark&font=Nunito&ext=heatmap" /> 
 </div>
+
+<br/>      
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
