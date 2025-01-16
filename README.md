@@ -44,12 +44,11 @@
 <hr/>
 
 <div align="center">
-  <h2 align="center">⚡ Leetcode Info ⚡<h2> 
+  <h2>⚡ Leetcode Info ⚡<h2> 
   <br/>
-  <p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/swayamjain8?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/swayamjain8?theme=dark&font=Nunito&ext=heatmap" /> 
 </div>
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
