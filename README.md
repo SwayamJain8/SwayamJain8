@@ -44,7 +44,7 @@
 <div align="center">
   <h2>⚡ Leetcode Info ⚡<h2> 
   <br/>
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/swayamjain8?theme=dark&font=Nunito&ext=heatmap" /> <br>
+  <img flex-grow=1 src="https://leetcard.jacoblin.cool/swayamjain8?theme=dark&font=Nunito&ext=heatmap" /> <br>
 </div>
 
 <br/>      
