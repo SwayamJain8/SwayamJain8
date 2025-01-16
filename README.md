@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SwayamJain8.SwayamJain8" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swayam+Jain!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Swayam+Jain!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Gujarat, India</h3>
@@ -65,5 +65,5 @@
 
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?
-font-Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines-Thanks+for+visiting!+;+Shoot+me+a+message+on+Linkedin!; I'm+always+down+to+collab+:)">
+font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌🏻;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
