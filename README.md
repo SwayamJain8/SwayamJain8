@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **AI/ML, Cyber Security**
 
-💬 Ask me anything about **Full Stack Development, Data Structures & Algorithms, System Design... or anything [here](https://github.com/SwayamJain8/SwayamJain8/issues)**
+💬 Ask me anything about **Full Stack Development, DSA, System Design... or anything [here](https://github.com/SwayamJain8/SwayamJain8/issues)**
 
 ✍🏻 **I don’t stop when i'm tired; I stop when i'm done.**
 
@@ -29,10 +29,6 @@
   </a>
   <a href="https://swayamjain.netlify.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-    <a href="https://swayamjain.netlify.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
 </div>
 
  <hr/>
@@ -40,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,springboot,tailwind,git,r,shadcn" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,spring,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
