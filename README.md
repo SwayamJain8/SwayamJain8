@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,spring,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,appwrite,mongodb,c,java,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,appwrite,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
@@ -46,7 +46,7 @@
 <div align="center">
   <h2>⚡ Leetcode Info ⚡<h2> 
   <br/>
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/swayamjain8?theme=dark&font=Nunito&ext=heatmap" /> 
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/swayamjain8?theme=dark&font=Nunito&ext=heatmap" /> <br>
 </div>
 
 <br/>      
