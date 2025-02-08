@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning and exploring **Cyber Security & Web3**
 
-💬 Ask me anything about **Full Stack Development, AI-Driven Development... or anything [here](https://github.com/SwayamJain8/SwayamJain8/issues)**
+💬 Ask me anything about **AI-Driven Full Stack Development... or anything [here](https://github.com/SwayamJain8/SwayamJain8/issues)**
 
 ✍🏻 **I don’t stop when i'm tired; I stop when i'm done.**
 
