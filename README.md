@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an AI-Powered Chat App**
+ 🔭 I’m currently working on building **AI-Powered Web Applications**
  
- 🌱 I’m currently learning **AI/ML, Cyber Security**
+ 🌱 I’m currently learning and exploring **Cyber Security**
 
-💬 Ask me anything about **Full Stack Development, DSA, System Design... or anything [here](https://github.com/SwayamJain8/SwayamJain8/issues)**
+💬 Ask me anything about **Full Stack Development... or anything [here](https://github.com/SwayamJain8/SwayamJain8/issues)**
 
 ✍🏻 **I don’t stop when i'm tired; I stop when i'm done.**
 
