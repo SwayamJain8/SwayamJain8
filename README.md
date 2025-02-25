@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I'm currently solving problems on **LeetCode to strengthen my DSA skills**
+ 🔭 I'm currently doing **LeetCode** and making some exciting **Projects**
  
  🌱 I’m currently learning and exploring **Cyber Security & Web3**
 
