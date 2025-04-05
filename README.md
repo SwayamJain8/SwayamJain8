@@ -12,7 +12,7 @@
  
  🔭 I'm currently doing **LeetCode** and making some exciting **Projects**
  
- 🌱 I’m currently learning and exploring **Cyber Security**
+ 🌱 I’m currently learning and exploring **GenAI & Cyber Security**
 
 💬 Ask me anything about **AI-Driven Full Stack Development... or anything [here](https://github.com/SwayamJain8/SwayamJain8/issues)**
 
