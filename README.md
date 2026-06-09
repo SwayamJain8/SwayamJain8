@@ -38,9 +38,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,spring,rust,go,mongodb,postgres&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,vite,rust,go,mongodb,postgres&perline=10" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=redis,graphql,prisma,bun,ai,ts,tailwind,react,nextjs,js&perline=10" />
+    <img src="https://skillicons.dev/icons?i=redis,graphql,prisma,bun,supabase,ts,tailwind,react,nextjs,js&perline=10" />
     <img src="https://cdn.simpleicons.org/expo" width="48" height="48" alt="Expo" />
     <br/>
     <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,githubactions,linux,bash,kali,vscode,postman&perline=12" />
