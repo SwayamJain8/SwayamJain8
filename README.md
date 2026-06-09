@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I'm currently doing **LeetCode** and making some exciting **Projects**
+ 🔭 Grinding **DSA** and shipping **cool side projects**
  
- 🌱 I’m currently learning and exploring **GenAI & Cyber Security**
+ 🌱 Diving deeper into the **Web3** and **AI** world
 
-💬 Ask me anything about **AI-Driven Full Stack Development... or anything [here](https://github.com/SwayamJain8/SwayamJain8/issues)**
+💬 Hit me up about **full-stack dev**, **deployments**, or [anything](https://github.com/SwayamJain8/SwayamJain8/issues)
 
-✍🏻 **I don’t stop when i'm tired; I stop when i'm done.**
+✍🏻 **I don't stop when I'm tired; I stop when I'm done.**
 
  </div>
  
@@ -64,6 +64,6 @@
 <hr/>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌🏻;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌🏻;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+😁">
 </h3>
 <br/>
