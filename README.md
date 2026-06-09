@@ -9,10 +9,12 @@
 <br/>
 
 <div align="center">
- 
- 🔭 Grinding **DSA** and shipping **cool side projects**
- 
- 🌱 Diving deeper into the **Web3** and **AI** world
+
+🎯 I like being the person who turns **ideas** into **outcomes**
+
+🔭 Grinding **DSA** and shipping **cool side projects**
+
+🌱 Diving deeper into the **Web3** and **AI** world
 
 💬 Hit me up about **full-stack dev**, **deployments**, or [anything](https://github.com/SwayamJain8/SwayamJain8/issues)
 
